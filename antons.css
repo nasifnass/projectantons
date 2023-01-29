@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=IBM+Plex+Sans:ital,wght@1,500&family=Lobster&family=Montserrat:ital,wght@0,100;1,600&display=swap');
+aside{
+    overflow-y: scroll;
+    width:100%;
+    padding: 0px 25px;
+    position: sticky;
+    top: 0%;
+    height: 600px;
+}
+body
+{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+
+
+.maincontain{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+.mainc2{
+    padding-left: 4px;
+    margin-left: -113px;
+}
+.mainc1{
+    margin-left: 0px;
+    padding-left: 10px;
+}
+
+.a1{
+    height: 340px;
+    width: 500px;
+    padding-left: 0px;
+    margin-top: 17px;
+}
+
+.a2{
+    height: 702px;
+    width: 500px;
+   padding-left: 110px;
+    margin-top: 17px;
+}
+
+.a3{
+    height: 740px;
+    width: 500px;
+    /* margin-left: 5px; */
+    margin-top: 17px;
+}
+
+.a4{
+    height: 740px;
+    width: 500px;
+    margin-left: 110px;
+    margin-top: 17px;
+}
+
+.a5{
+    height: 740px;
+    width: 500px;
+    /* margin-left: px; */
+    margin-top: 17px;
+}
+
+.a6{
+    height: 380px;
+    width: 500px;
+    margin-left: 110px;
+    margin-top: 14px;
+}
+
+.a7{
+    height: 740px;
+    width: 500px;
+    /* margin-left: 0px; */
+    margin-top: 17px;
+}
+.a8{
+    height: 740px;
+    width: 500px;
+    margin-left: 110px;
+    margin-top: 17px;
+}
+
+.a9{
+    height: 740px;
+    width: 500px;
+    /* margin-left: 0px; */
+    margin-top: 17px;
+}
+
+.a10{
+    height: 740px;
+    width: 500px;
+    margin-left: 110px;
+    margin-top: 17px;
+}
+
+.a11{
+    height: 340px;
+    width: 500px;
+    /* margin-left: 0px; */
+    margin-top: 17px;
+ 
+}
+
+.a12{
+    height: 742px;
+    width: 500px;
+    margin-left: 110px;
+    margin-top: 17px;
+    
+}
+
+.a13{
+    height: 340px;
+    width: 500px;
+    /* margin-left: 0px; */
+    margin-top: 17px;
+}
+
+.a14{
+    height: 475px;
+    width: 500px;
+    margin-left: 20px;
+}
+
+.a15{
+    height: 486px;
+    width: 472px;
+    /* margin-left: 0px; */
+    margin-top: 90px;
+    margin-bottom: 10px;
+}
+
+.b1{
+    height: 80px;
+    width: 150px;
+    margin-bottom: 17px;
+    margin-left: 3px;
+    margin-top: 45px;
+}
+
+.b2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Spectral', serif;
+text-decoration: none;
+color: rgb(105, 54, 18);
+margin-bottom: 5px;
+}
+
+.b2:hover{
+    color: black;
+box-shadow: 0px;
+}
+
+
+.b12{
+    
+    font-family: 'Spectral', serif;
+    color: rgba(77, 40, 14, 0.932);
+    text-decoration: none;
+    padding: 15px 20px 15px 20px;
+    background-color: rgb(241, 241, 241);
+    border: solid 1px ;
+
+}
+.b12:hover:hover{
+    color: black;
+}
+
+h1{
+    
+    font-family: 'Caveat', cursive;
+    color: rgb(45, 25, 10);
+margin-left: 160px;
+padding-bottom: 0px;
+
+}
+
+.maincontain2{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+.mainc3{
+    margin-left: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+.p1{
+margin-left: 47px;
+color: rgb(45, 25, 10);
+font-family: 'Montserrat', sans-serif;
+margin-top: 75px;
+}
+
+.p9{
+    color: rgb(45, 25, 10);
+    font-family: 'Great Vibes', cursive;
+}
+
+.b13{
+    font-family: 'Spectral', serif;
+    color: rgba(105, 54, 18, 0.932);
+    text-decoration: none;
+    padding: 15px 20px 15px 20px;
+    background-color: rgb(255, 255, 255);
+    border: solid 1px ;
+    margin-left: 72px;
+    margin-top: 60px;
+}
+
+.b13:hover:hover{
+    color: black;
+}
+
+.head1{
+margin-top: 55px;
+margin-bottom: -22px;
+}
+.head2{
+    margin-top: 100px;
+    }
+
+.p2{
+    margin-left: 47px;
+    color: rgb(45, 25, 10);
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 50px;
+    }
+    
+    .b14{
+ 
+        font-family: 'Spectral', serif;
+        color: rgba(77, 40, 14, 0.932);
+        text-decoration: none;
+        padding: 15px 20px 15px 20px;
+        background-color: rgb(255, 255, 255);
+        border: solid 1px ;
+        margin-left: 72px;
+        margin-top: 60px;
+    }
+
+    .b14:hover:hover{
+        color: black;
+    }
+
+
+hr{
+    margin-left: -8px;
+}
